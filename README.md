@@ -1,4 +1,4 @@
-<h1>Callum "Jules" WHite</h1>
+<h1>Callum "Jules" White</h1>
 
 - 🌱 I’m currently learning **Rust and SDL**
 
