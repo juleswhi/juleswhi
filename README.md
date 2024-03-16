@@ -1,8 +1,6 @@
-<h1>Callum "Jules" White</h1>
+<h1>Callum Jules White</h1>
 
-- 🌱 I’m currently learning **Rust and SDL**
-
-- 💬 Ask me about **Dotnet**
+- 🌱 I’m currently learning **Gleam and Rust**
 
 - 📫 Reach me at **jules.white1@protonmail.com**
 
