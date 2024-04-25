@@ -1,6 +1,6 @@
 <h1>Callum Jules White</h1>
 
-- 🌱 I’m currently learning **Gleam, Go and Rust**
+- 🌱 I’m currently learning **Go and Rust**
 
 - 📫 Reach me at **jules.white1@protonmail.com**
 
