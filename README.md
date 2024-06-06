@@ -1,5 +1,4 @@
 ## Jules White
-- gruxbox enthusiast
 - rust, go, zig, c#
 
 <hr>
