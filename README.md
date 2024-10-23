@@ -1,3 +1,4 @@
 ## Jules White
-- rust, go, zig, c#
+
+zig rust go c#
 
