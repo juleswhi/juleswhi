@@ -1,8 +1,6 @@
 <div align="center">
   
-# Callum J White 🌠
-
-[callumwhite.dev](https://callumjwhite.com)
+# [callumwhite.dev](https://callumwhite.dev) 🌠
 
 </div>
 
@@ -14,6 +12,7 @@ const callumwhite = {
   operating_system: "arch_linux",
   text_editor: "vim",
   located_in: "northern_ireland",
+  website: "https://callumwhite.dev",
   currently_working: "3d mapped tree light software",
 }
 ```
