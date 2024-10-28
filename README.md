@@ -2,7 +2,18 @@
   
 # Callum J White 🌠
 
-## https://callumjwhite.com
+[callumwhite.dev](https://callumjwhite.com)
 
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juleswhi&layout=compact&theme=buefy&hide_border=true" /></a>
+
+```js
+const callumwhite = {
+  pronouns: "he" | "him",
+  languages: ["zig", "c", "go", "c#"],
+  experience_years: 5,
+  operating_system: "arch_linux",
+  text_editor: "vim",
+  located_in: "northern_ireland",
+  currently_working: "3d mapped tree light software",
+}
+```
