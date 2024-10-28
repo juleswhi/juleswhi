@@ -13,6 +13,7 @@ const callumwhite = {
   text_editor: "vim",
   located_in: "northern_ireland",
   website: "https://callumwhite.dev",
+  favourite_song: "whats_going_on-marvin_gaye",
   currently_working: "3d mapped tree light software",
 }
 ```
