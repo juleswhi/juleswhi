@@ -1,9 +1,3 @@
-<div align="center">
-  
-# [callumwhite.dev](https://callumwhite.dev)
-
-</div>
-
 ```js
 const callumwhite = {
   pronouns: "he" | "him",
