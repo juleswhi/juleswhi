@@ -1,6 +1,6 @@
 <div align="center">
   
-# [callumwhite.dev](https://callumwhite.dev) 🌠
+# [callumwhite.dev](https://callumwhite.dev)
 
 </div>
 
@@ -12,7 +12,7 @@ const callumwhite = {
   operating_system: "arch_linux",
   text_editor: "vim",
   located_in: "northern_ireland",
-  website: "https://callumwhite.dev",
+  contact: "callum@callumwhite.dev",
   favourite_song: "whats_going_on-marvin_gaye",
   currently_working: "3d mapped tree light software",
 }
