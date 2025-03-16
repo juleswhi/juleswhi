@@ -7,7 +7,7 @@ const callumwhite = {
   text_editor: "vim",
   located_in: "northern_ireland",
   contact: "callum@callumwhite.dev",
-  favourite_song: "whats_going_on-marvin_gaye",
-  currently_working: "3d_mapping_tree_light_software",
+  favourite_song: "Life On Mars",
+  currently_working: "3D Mapping Tree Light Software",
 }
 ```
